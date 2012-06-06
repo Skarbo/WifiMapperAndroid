@@ -34,6 +34,8 @@
         </activity>
         <activity android:name=".activity.TaggerActivity" >
         </activity>
+        <activity android:name=".activity.WifiActivity" >
+        </activity>
     </application>
 
 </manifest>
